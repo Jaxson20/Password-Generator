@@ -7,7 +7,7 @@ Usage - To use this website effectively,  when you click generate password a win
 
 Visual Studio Code - https://1drv.ms/i/s!AjsvYdlJ0aVdhQoldBTjkg9YkWNU?e=ZP64xW
 
-Website - 
+Website - https://jaxson20.github.io/Password-Generator/
 
 picture of the live site - https://1drv.ms/i/s!AjsvYdlJ0aVdhQucgVV1ky_RHWvk?e=rLg182
 
